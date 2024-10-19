@@ -8,7 +8,7 @@ const AboutPage = () => {
             gap={4}
             >
             <GridItem colSpan={1} me='5'>
-                <Image   borderRadius='full'src='/images/mimi.png' alt='An Image of Mimi Yu smiling' />
+                <Image borderRadius='full' src='/images/mimi.png' alt='An Image of Mimi Yu, an Asian person with short black hair, smiling' />
             </GridItem>
             <GridItem colSpan={3}>
                 <Heading size='xl'>

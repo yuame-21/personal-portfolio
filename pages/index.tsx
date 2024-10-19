@@ -4,6 +4,8 @@ import AboutPage from './about';
 import ContactPage from "./contact";
 const IndexPage = () => ( 
   <Box>
+    <title>Amelia (Mimi) Yu's Personal Portfolio</title>
+    <html lang="en"></html>
       <Heading m={5} mt={1}>
         Amelia (Mimi) Yu
       </Heading>
