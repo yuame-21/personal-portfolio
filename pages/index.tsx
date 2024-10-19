@@ -6,7 +6,7 @@ const IndexPage = () => (
   <Box>
     <title>Amelia (Mimi) Yu's Personal Portfolio</title>
     <html lang="en"></html>
-      <Heading m={5} mt={1}>
+      <Heading as='h1' m={5} mt={1}>
         Amelia (Mimi) Yu
       </Heading>
       <Tabs m={5} mt={1}>
